@@ -1,4 +1,4 @@
-# Data Structure and Algorithms in Python
+# Data Structures and Algorithms in Python
 
 1. Python Objects, Types, and Expressions
 1. Python Data Types and Structures
