@@ -6,8 +6,9 @@ Why do we study *Algorithm Design* and *Data Structure*?
 
 Essentially, Algorithms is the logic that allows us to manipulate data using computers. And in order for Algorithms to efficiently manipulate data, we organize the data using *Data Structures*. Thus, Algorithms and Data Structures often go hand-in-hand for computer programs to run smoothly.
 
-1. Python Objects, Types, and Expressions
-1. Python Data Types and Structures
+## Organization
+
+1. [Python Data Types and Structures](./Chapter-00-Python-Refresher)
 1. Principles of Algorithm Design
 1. Lists and Pointer Structures
 1. Stacks and Queues
@@ -20,3 +21,5 @@ Essentially, Algorithms is the logic that allows us to manipulate data using com
 1. String Algorithms and Techniques
 1. Design Techniques and Strategies
 1. Implementations, Applications, and Tools
+
+For more details for each section, [check here](./about.ipynb)
