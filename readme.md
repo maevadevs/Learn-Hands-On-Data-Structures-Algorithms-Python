@@ -8,20 +8,14 @@ Essentially, Algorithms is the logic that allows us to manipulate data using com
 
 ## Organization
 
-1. [Python Refresher](./Chapter-00-Python-Refresher)
-1. [Python Objects, Types, and Expressions](./Chapter-01-Python-Objects-Types-Expressions)
-1. [Python Data Types and Structures](./Chapter-02-Data-Types-And-Structures)
-1. [Principles of Algorithm Design](./Chapter-03-Principles-Of-Algorithm-Design)
-1. [Lists and Pointer Structures](./Chapter-04-Lists-And-Pointer-Structures)
-1. [Stacks and Queues](./Chapter-05-Stacks-Queues)
-1. [Trees](./Chapter-06-Trees)
-1. Hashing and Symbol Tables
-1. Graphs and Other Algorithms
-1. Searching
-1. Sorting
-1. Selection Algorithms
-1. String Algorithms and Techniques
-1. Design Techniques and Strategies
-1. Implementations, Applications, and Tools
+<ol start=0>
+    <li><a href='./Chapter-00-Python-Refresher'>Python Refresher</a></li>
+    <li><a href='./Chapter-01-Python-Objects-Types-Expressions'>Python Objects, Types, and Expressions</a></li>
+    <li><a href='./Chapter-02-Data-Types-And-Structures'>Python Data Types and Structures</a></li>
+    <li><a href='./Chapter-03-Principles-Of-Algorithm-Design'>Principles of Algorithm Design</a></li>
+    <li><a href='./Chapter-04-Lists-And-Pointer-Structures'>Lists and Pointer Structures</a></li>
+    <li><a href='./Chapter-05-Stacks-Queues'>Stacks and Queues</a></li>
+    <li><a href='./Chapter-06-Trees'>Trees</a></li>
+</ol>
 
 For more details for each section, [check here](./about.ipynb)
