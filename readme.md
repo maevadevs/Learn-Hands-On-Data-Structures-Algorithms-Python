@@ -8,11 +8,13 @@ Essentially, Algorithms is the logic that allows us to manipulate data using com
 
 ## Organization
 
-1. [Python Data Types and Structures](./Chapter-00-Python-Refresher)
-1. Principles of Algorithm Design
-1. Lists and Pointer Structures
-1. Stacks and Queues
-1. Trees
+1. [Python Refresher](./Chapter-00-Python-Refresher)
+1. [Python Objects, Types, and Expressions](./Chapter-01-Python-Objects-Types-Expressions)
+1. [Python Data Types and Structures](./Chapter-02-Data-Types-And-Structures)
+1. [Principles of Algorithm Design](./Chapter-03-Principles-Of-Algorithm-Design)
+1. [Lists and Pointer Structures](./Chapter-04-Lists-And-Pointer-Structures)
+1. [Stacks and Queues](./Chapter-05-Stacks-Queues)
+1. [Trees](./Chapter-06-Trees)
 1. Hashing and Symbol Tables
 1. Graphs and Other Algorithms
 1. Searching
