@@ -19,3 +19,10 @@ Essentially, Algorithms is the logic that allows us to manipulate data using com
 </ol>
 
 For more details for each section, [check here](./about.ipynb)
+
+## Additional Resources
+
+- [List of Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+- [Minimal and clean example implementations of Data Structures and Algorithms in Python 3](https://github.com/keon/algorithms)
+- [Programiz: DSA](https://www.programiz.com/dsa)
+- [30 Most Essential Data Structures & Algorithms](https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd)
