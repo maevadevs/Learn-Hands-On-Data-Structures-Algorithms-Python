@@ -15,7 +15,7 @@ Essentially, Algorithms is the logic that allows us to manipulate data using com
     <li><a href='./Chapter-03-Principles-Of-Algorithm-Design'>Principles of Algorithm Design</a></li>
     <li><a href='./Chapter-04-Lists-And-Pointer-Structures'>Lists and Pointer Structures</a></li>
     <li><a href='./Chapter-05-Stacks-Queues'>Stacks and Queues</a></li>
-    <li><a href='./Chapter-06-Trees'>Trees</a></li>
+    <li><a href='./Chapter-06-Trees-And-Heaps'>Trees and Heaps</a></li>
 </ol>
 
 For more details for each section, [check here](./about.ipynb)
