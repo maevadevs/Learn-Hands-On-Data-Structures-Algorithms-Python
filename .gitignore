@@ -1,6 +1,7 @@
 # Custom
 original-codes
 *~
+.tmp
 
 # Visual Studio Code
 .vscode
