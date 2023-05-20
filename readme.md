@@ -4,7 +4,7 @@
 
 - [About](#about)
 - [Organization](#organization)
-- [Additional Resources](#additional-resources)
+- [Resources](#resources)
 
 ---
 
@@ -14,7 +14,7 @@ Why do we study *Algorithm Design* and *Data Structure*?
 
 *Algorithms* are the foundation of all computing. Algorithms are the logic that get translated into computer codes for implementation. We can think of a computer as being a piece of hardware, with a hard drive, memory chips, processors, and so on. However, the essential component, the thing that, if missing, would render modern technology impossible, is the logic of Algorithms.
 
-Essentially, Algorithms is the logic that allows us to manipulate data using computers. And in order for Algorithms to efficiently manipulate data, we organize the data using *Data Structures*. Thus, Algorithms and Data Structures often go hand-in-hand for computer programs to run smoothly.
+Essentially, Algorithm is the logic that allows us to manipulate data using computers. And in order for Algorithms to efficiently manipulate data, we organize the data using *Data Structures*. Thus, Algorithms and Data Structures often go hand-in-hand for computer programs to run smoothly.
 
 ## Organization
 
@@ -25,12 +25,14 @@ Essentially, Algorithms is the logic that allows us to manipulate data using com
 - [Lists and Pointer Structures](./Chapter-04-Lists-And-Pointer-Structures)
 - [Stacks and Queues](./Chapter-05-Stacks-Queues)
 - [Trees and Heaps](./Chapter-06-Trees-And-Heaps)
+- [Hashing and Symbol Tables](./Chapter-07-Hashing-And-Symbol-Tables/)
 
 For more details for each section, [check here](./about.ipynb)
 
-## Additional Resources
+## Resources
 
-- [List of Algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
-- [Minimal and clean example implementations of Data Structures and Algorithms in Python 3](https://github.com/keon/algorithms)
+- [Book: Hands-On Data Structure And Algorithms In Python, 2nd Edition](https://www.amazon.com/Hands-Data-Structures-Algorithms-Python/dp/1788995570)
+- [Github: List of algorithms implemented in Python](https://github.com/TheAlgorithms/Python)
+- [Github: Minimal and clean example implementations of data structures and algorithms in Python 3](https://github.com/keon/algorithms)
 - [Programiz: DSA](https://www.programiz.com/dsa)
-- [30 Most Essential Data Structures & Algorithms](https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd)
+- [Dev.to: 30 most essential data structures & algorithms](https://dev.to/iuliagroza/complete-introduction-to-the-30-most-essential-data-structures-algorithms-43kd)
