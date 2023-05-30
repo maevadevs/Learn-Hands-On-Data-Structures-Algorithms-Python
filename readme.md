@@ -1,9 +1,24 @@
-# Data Structures and Algorithms in Python
+# Hands-On Data Structures and Algorithms in Python
 
 ---
 
 - [About](#about)
 - [Organization](#organization)
+  - [0. Python Refresher](#0-python-refresher)
+  - [1. Python Objects, Types, and Expressions](#1-python-objects-types-and-expressions)
+  - [2. Python Data Types and Structures](#2-python-data-types-and-structures)
+  - [3. Principles of Algorithm Design](#3-principles-of-algorithm-design)
+  - [4. Pointer Structures and Linked Lists](#4-pointer-structures-and-linked-lists)
+  - [05. Stacks and Queues](#05-stacks-and-queues)
+  - [06. Trees and Heaps](#06-trees-and-heaps)
+  - [07. Hashing and Symbol Tables](#07-hashing-and-symbol-tables)
+  - [08. Graphs and Other Algorithms](#08-graphs-and-other-algorithms)
+  - [09. Searching](#09-searching)
+  - [10. Sorting](#10-sorting)
+  - [11. Selection](#11-selection)
+  - [12. String Algorithms and Techniques](#12-string-algorithms-and-techniques)
+  - [13. Design Techniques and Strategies](#13-design-techniques-and-strategies)
+  - [14. Implementations, Applications, and Tools](#14-implementations-applications-and-tools)
 - [Resources](#resources)
 
 ---
@@ -18,16 +33,150 @@ Essentially, Algorithm is the logic that allows us to manipulate data using comp
 
 ## Organization
 
-0. [Python Refresher](./Chapter-00-Python-Refresher)
-1. [Python Objects, Types, and Expressions](./Chapter-01-Python-Objects-Types-Expressions)
-2. [Python Data Types and Structures](./Chapter-02-Data-Types-And-Structures)
-3. [Principles of Algorithm Design](./Chapter-03-Principles-Of-Algorithm-Design)
-4. [Lists and Pointer Structures](./Chapter-04-Lists-And-Pointer-Structures)
-5. [Stacks and Queues](./Chapter-05-Stacks-Queues)
-6. [Trees and Heaps](./Chapter-06-Trees-And-Heaps)
-7. [Hashing and Symbol Tables](./Chapter-07-Hashing-And-Symbol-Tables/)
+### [0. Python Refresher](./Chapter-00-Python-Refresher)
 
-For more details for each section, [check here](./about.ipynb)
+- Python fundamentals
+- User-Defined Modules
+- Exceptions
+- Classes
+
+### [1. Python Objects, Types, and Expressions](./Chapter-01-Python-Objects-Types-Expressions)
+
+- Basic Python types and objects
+- Overview of language features
+- Execution environment
+- Programming styles
+- Common programming techniques
+- Language functionality
+
+### [2. Python Data Types and Structures](./Chapter-02-Python-Data-Types-And-Structures)
+
+- Python's built-in data types
+  - Five numeric
+  - Five sequence
+  - Two set
+  - One mapping
+- Operations and expressions
+- Examples of typical use cases
+
+### [3. Principles of Algorithm Design](./Chapter-03-Principles-Of-Algorithm-Design)
+
+- Data structure design paradigms
+  - Greedy algorithms
+  - Dynamic programming
+  - Divide and conquer
+  - Recursion
+  - Backtracking
+- Principles
+  - Robustness
+  - Adaptability
+  - Reusability
+  - Structure and function separation
+- Iteration
+- Recursion
+- Big O notations
+- Complexity classes
+
+### [4. Pointer Structures and Linked Lists](./Chapter-04-Pointer-Structures-And-Linked-Lists)
+
+- Pointer Structures and Node
+- Linked lists
+  - Operation and implementation
+  - Compare behavior to arrays
+  - Relative advantages and disadvantages of each
+  - Singly-Linked List
+  - Doubly-Linked List
+  - Circular List
+
+### [05. Stacks and Queues](./Chapter-05-Stacks-Queues)
+
+- Behavior of these linear data structures
+- Different implementations
+- Real-life applications
+
+### [06. Trees and Heaps](./Chapter-06-Trees-And-Heaps)
+
+- Binary tree
+- Tree traversal
+- Retrieve and insert values
+- Binary and ternary search trees
+- How to create structures such as heaps
+
+### [07. Hashing and Symbol Tables](./Chapter-07-Hashing-And-Symbol-Tables/)
+
+- Symbol tables
+- Typical implementations
+- Applications
+- The process of hashing
+- Implementation of a hash table
+- Design considerations
+
+### 08. Graphs and Other Algorithms
+
+- Specialized structures, graphs, and spatial structures
+- Data as a set of nodes and vertices
+- Directed and undirected graphs
+- Other structures and concepts:
+  - Priority queues
+  - Heaps
+  - Selection algorithms
+
+### 09. Searching
+
+- Most common searching algorithms
+  - Binary search
+  - Interpolation search
+- Examples of uses in relation to data structures
+- Different approaches
+
+### 10. Sorting
+
+- Most common approaches to sorting
+  - Bubble sort
+  - Insertion sort
+  - Selection sort
+  - Quick sort
+  - Heap sort
+- Detailed explanation of each
+- Python implementations
+
+### 11. Selection
+
+- Finding statistics
+  - Minimum
+  - Maximum
+  - Median
+- Selection algorithms for locating a specific element in a list by sorting
+- Randomized and deterministic selection
+
+### 12. String Algorithms and Techniques
+
+- Basic concepts and definitions related to strings
+- String and pattern matching
+  - Naïve approach
+  - Knuth-Morris-Pratt (KMP)
+  - Boyer-Moore Pattern Matching
+
+### 13. Design Techniques and Strategies
+
+- Solutions for similar problems
+- How we can classify algorithms
+- Key aspect of algorithm design
+- Classify algorithms
+  - Implementation method
+  - Design method
+- Mergesort
+- Dijkstra's Shortest Path
+- Coin-Counting problem
+
+### 14. Implementations, Applications, and Tools
+
+- Real-world applications
+  - Data analysis
+  - Machine learning
+  - Prediction
+  - Visualization
+- Libraries and tools
 
 ## Resources
 
