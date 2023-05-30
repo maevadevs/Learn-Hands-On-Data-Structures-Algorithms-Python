@@ -1,14 +1,15 @@
 """Define the features of a 2D Point."""
 
-# Import modules
+# IMPORT MODULES
+# --------------
 from math import sqrt
 
 
-# Define Class
+# DEFINE CLASS
+# ------------
 class Point:
     """Represent a 2D Point object."""
 
-    # The methods are defined here in the body one after the other
     def __init__(self, x: float = 0, y: float = 0) -> None:
         """The instance constructor of the Point class.
 
