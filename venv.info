@@ -4,5 +4,6 @@ venv:
     python: 3.11
 conda_deps:
     conda install jupyterlab
+    conda install matplotlib
 pip_deps:
     python -m pip install "nbqa[toolchain]" # nbQA contains black and mypy
