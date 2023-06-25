@@ -88,7 +88,7 @@ Essentially, Algorithm is the logic that allows us to manipulate data using comp
   - Doubly-Linked List
   - Circular List
 
-### [05. Stacks and Queues](./Chapter-05-Stacks-Queues)
+### [05. Stacks and Queues](./Chapter-05-Stacks-And-Queues)
 
 - Behavior of these linear data structures
 - Different implementations
