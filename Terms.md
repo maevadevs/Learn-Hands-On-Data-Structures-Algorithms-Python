@@ -48,3 +48,8 @@
   - SinglyLinkedList
   - DoublyLinkedList
   - CircularLinkedList
+- Stack
+- Queue
+  - ListQueue
+  - StackQueue
+  - LinkedListQueue
