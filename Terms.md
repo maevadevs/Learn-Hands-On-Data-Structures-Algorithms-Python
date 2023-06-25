@@ -44,12 +44,16 @@
   - Node
     - OneDirectionNode
     - TwoDirectionNode
-- LinkedList
-  - SinglyLinkedList
-  - DoublyLinkedList
-  - CircularLinkedList
-- Stack
-- Queue
-  - ListQueue
-  - StackQueue
-  - LinkedListQueue
+- Sequential
+  - LinkedList
+    - SinglyLinkedList
+    - DoublyLinkedList
+    - CircularLinkedList
+  - Stack
+  - Queue
+    - ListQueue
+    - StackQueue
+    - LinkedListQueue
+- Hierarchical
+  - Tree
+    - TreeNode
