@@ -57,3 +57,5 @@
 - Hierarchical
   - Tree
     - TreeNode
+    - BinaryTree
+      - BinarySearchTree
